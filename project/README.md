@@ -1,8 +1,32 @@
-# React + Vite
+Ride Share – A Seamless Ride-Sharing Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+📌 Overview
+
+
+Ride Share is a dynamic and user-friendly ride-sharing platform designed to connect passengers and drivers seamlessly. It offers a hassle-free booking experience, ensures fair ride allocation for drivers, and incorporates fleet management features for enhanced efficiency. This platform aims to improve urban mobility by making transportation more accessible, affordable, and reliable.
+
+✨ Features
+
+
+✅ 🔍 Easy Ride Booking – Intuitive UI for searching and booking rides quickly.
+
+
+✅ 📍 Real-Time Tracking – Monitor your ride from pickup to destination.
+
+
+✅ 🚘 Driver Dashboard – Track earnings, ride history, and manage real-time requests.
+
+
+✅ 📊 Admin Panel – Oversee users, rides, and system analytics.
+
+
+✅ ⭐ Feedback & Ratings – Maintain quality service through user reviews.
+
+🛠️ Tech Stack
+Frontend:
+
+React.js (Vite setup)
+Tailwind CSS
