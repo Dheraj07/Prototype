@@ -1,8 +1,5 @@
 Ride Share – A Seamless Ride-Sharing Platform
 
-
-
-
 📌 Overview
 
 
